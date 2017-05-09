@@ -22,7 +22,7 @@
     margin: 0px;
     height: auto;
     width: 100%;
-    background: url(data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D) transparent;
+    background: transparent;
     position: absolute;
     z-index: 6;
     left: 0px;
@@ -54,3 +54,16 @@ li {
     list-style-type: none;
 }
 
+.bottomnav{
+	margin-top: 285px;
+	list-style-type: none;
+
+}
+.left{
+	float:left;
+	padding: 25px;
+}
+.right{
+	float:right;
+	padding: 25px;
+}
