@@ -1,23 +1,23 @@
 .main{
-	background-color: white;
-	display: block;
-	text-align: -webkit-center;
+    background-color: white;
+    display: block;
+    text-align: -webkit-center;
 
 }
 .logo{
-	height: 233px;
-	margin-top: 89px;
+    height: 233px;
+    margin-top: 89px;
 }
 .searchbar{
-	padding-bottom: 2px;
-	padding-top: 15px;
-	margin-top: -3px;
-	margin-left: 12px;
-	width: 632px;
-	font-size: 24px;
+    padding-bottom: 2px;
+    padding-top: 15px;
+    margin-top: -3px;
+    margin-left: 12px;
+    width: 632px;
+    font-size: 24px;
 }
 .sb{
-	    border: none;
+        border: none;
     padding: 0px;
     margin: 0px;
     height: auto;
@@ -55,15 +55,15 @@ li {
 }
 
 .bottomnav{
-	margin-top: 298px;
-	list-style-type: none;
+    margin-top: 298px;
+    list-style-type: none;
 
 }
 .left{
-	float:left;
-	padding: 25px;
+    float:left;
+    padding: 25px;
 }
 .right{
-	float:right;
-	padding: 25px;
+    float:right;
+    padding: 25px;
 }
