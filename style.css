@@ -1,3 +1,7 @@
+li a{
+    text-decoration: none;
+}
+
 .main{
     background-color: white;
     display: block;
@@ -46,6 +50,7 @@
     padding: 0;
     overflow: hidden;
     background-color: white;
+
 }
 
 li {
